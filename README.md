@@ -17,7 +17,7 @@ Material Kit is based on the Github Repo from Fezvrasta who did an amazing job c
 
 ## Table of Contents
 
-* [Versions](#versions) 
+* [Versions](#versions)
 * [Demo](#demo)
 * [Quick Start](#quick-start)
 * [Documentation](#documentation)
@@ -29,16 +29,6 @@ Material Kit is based on the Github Repo from Fezvrasta who did an amazing job c
 * [Licensing](#licensing)
 * [Useful Links](#useful-links)
 
-
-
-## Versions
-
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/material-kit)[<img src="https://s3.amazonaws.com/creativetim_bucket/github/react.svg" width="60" height="60" />](https://www.creative-tim.com/product/material-kit-react)[<img src="https://s3.amazonaws.com/creativetim_bucket/github/vuejs.png" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-kit)
-
-
-| HTML | React | Vue  |
-| --- | --- | ---  |
-| [![Material Kit  HTML](https://s3.amazonaws.com/creativetim_bucket/products/38/thumb/opt_mk_thumbnail.jpg)](https://www.creative-tim.com/product/material-kit)  | [![Material Kit  React](https://s3.amazonaws.com/creativetim_bucket/products/83/thumb/opt_mk_react_thumbnail.jpg)](https://www.creative-tim.com/product/material-kit-react)  | [![Vue Material Kit](https://s3.amazonaws.com/creativetim_bucket/products/97/thumb/opt_mk_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-kit)  
 
 
 
@@ -111,14 +101,6 @@ material-kit/
 ```
 
 
-## Browser Support
-
-At present, we officially aim to support the last two versions of the following browsers:
-
-<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
-
-
-
 ## Resources
 - Demo: <https://demos.creative-tim.com/material-kit/index.html>
 - Download Page: <https://www.creative-tim.com/product/material-kit>
@@ -126,19 +108,6 @@ At present, we officially aim to support the last two versions of the following 
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/material-kit/issues)
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Material Dashboard. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Material Dashboard. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-
-
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us) instead of opening an issue.
-
 
 
 ## Licensing
@@ -156,15 +125,6 @@ If you have questions or need help integrating the product please [contact us](h
 - [Freebies](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
 - [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
 
-##### Social Media
 
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://www.instagram.com/CreativeTimOfficial>
-
+inspiration from:
+http://demo.dream-space.web.id/material-recipe-web/
