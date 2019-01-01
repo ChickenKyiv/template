@@ -118,13 +118,65 @@ material-kit/
 
 
 
-## Useful Links
-
-- [More products](https://www.creative-tim.com/bootstrap-themes) from Creative Tim
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
-
-
 inspiration from:
 http://demo.dream-space.web.id/material-recipe-web/
+
+
+looks cool:
+https://bootsnipp.com/tags/material_design
+https://bootsnipp.com/snippets/qroQD
+https://bootsnipp.com/snippets/Ek518
+https://bootsnipp.com/snippets/mMynR
+https://mdbootstrap.com/docs/jquery/navigation/navbar/
+https://bootsnipp.com/snippets/gNnRM
+https://bootsnipp.com/snippets/X2Kov
+
+https://fezvrasta.github.io/bootstrap-material-design/docs/4.0/getting-started/theming/
+
+https://fezvrasta.github.io/bootstrap-material-design/docs/4.0/getting-started/build-tools/
+
+
+
+chef websites:
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjhkbTFos3fAhVLAhAIHVGyCk8Qjhx6BAgBEAM&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3478016-Netta-s-Kitchen&psig=AOvVaw3uuK-cCfaYmPTvZUXLjAlA&ust=1546455646968131
+
+
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj-34rLos3fAhUhmYsKHTTKAfIQjhx6BAgBEAM&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3163155-Sumi-Drag-Drop-Restaurant-Joomla-Template&psig=AOvVaw3uuK-cCfaYmPTvZUXLjAlA&ust=1546455646968131
+
+
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwit3v7Oos3fAhWJt4sKHQwiCEkQjhx6BAgBEAM&url=https%3A%2F%2Fdribbble.com%2Fgraphictom%2Fprojects%2F394369-Alfresco-Pasta&psig=AOvVaw3uuK-cCfaYmPTvZUXLjAlA&ust=1546455646968131
+
+
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiEgenSos3fAhVFtYsKHdaBAq4Qjhx6BAgBEAM&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3089728-Mycheffy-website&psig=AOvVaw3uuK-cCfaYmPTvZUXLjAlA&ust=1546455646968131
+
+
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjeufPfos3fAhVSqIsKHf4ACLwQjhx6BAgBEAM&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4716544-KitchenPal-desktop-recipe-listing-page&psig=AOvVaw3uuK-cCfaYmPTvZUXLjAlA&ust=1546455646968131
+
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjKpOLjos3fAhUjtosKHYDFBNEQjhx6BAgBEAM&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4702323-KitchenPal-mobile-recipe-listing-page&psig=AOvVaw3uuK-cCfaYmPTvZUXLjAlA&ust=1546455646968131
+
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjy_5foos3fAhXhpIsKHfA5Dw0Qjhx6BAgBEAM&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F547046685972583711%2F&psig=AOvVaw3uuK-cCfaYmPTvZUXLjAlA&ust=1546455646968131
+
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj5kszxos3fAhURt4sKHasgD6UQjhx6BAgBEAM&url=https%3A%2F%2Fdribbble.com%2FUnidack%2Fprojects%2F401949-Web-design&psig=AOvVaw3uuK-cCfaYmPTvZUXLjAlA&ust=1546455646968131
+
+
+
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiS2q34os3fAhVJAhAIHXvdAm8Qjhx6BAgBEAM&url=https%3A%2F%2Fdribbble.com%2Fshots%2F5770884-Restaurant-Web-Design&psig=AOvVaw3uuK-cCfaYmPTvZUXLjAlA&ust=1546455646968131
+
+
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiB_5f-os3fAhXwposKHfsYDR0Qjhx6BAgBEAM&url=https%3A%2F%2Fdribbble.com%2Fshots%2F5453825-KitchenPal-desktop-recipe-page&psig=AOvVaw3uuK-cCfaYmPTvZUXLjAlA&ust=1546455646968131
+
+
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjNyPOGo83fAhXjlosKHfbwDq4Qjhx6BAgBEAM&url=https%3A%2F%2Fdribbble.com%2Fshots%2F5051672-Layout-exploration&psig=AOvVaw3uuK-cCfaYmPTvZUXLjAlA&ust=1546455646968131
+
+
+https://dribbble.com/shots/5751652-Recipe-App-UI?utm_source=Clipboard_Shot&utm_campaign=Activeek&utm_content=Recipe%20App%20UI&utm_medium=Social_Share
+talk with: https://dribbble.com/Activeek
+
+https://dribbble.com/shots/5658367-Food-App
+
+https://dribbble.com/shots/5646023-Food-order-landing-page
+
+
+https://dribbble.com/shots/5617899-Onechef
+
+https://dribbble.com/shots/5563751-Cheffy-Concept
